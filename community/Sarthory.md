@@ -1,6 +1,6 @@
 # Sobre mim
 
-Olá, sou *Felipe Sartori*, sou desenvolvedor fullstack senior, já atuei em diversos projetos de diversas tecnologias, estou acomanhando o bootcamp para adquirir mais conhecimentos, sintam-se à vontade para entrar em contato
+Olá, sou *Felipe Sartori*, sou desenvolvedor fullstack senior, já atuei em diversos projetos de diversas tecnologias, estou acompanhando o bootcamp para adquirir mais conhecimentos, sintam-se à vontade para entrar em contato
 
 ## Habilidades
 
